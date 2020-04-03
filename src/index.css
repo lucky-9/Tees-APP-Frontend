@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Sen&display=swap');
+
+
+.heading{
+  font-family: 'Sen', sans-serif;
+  color:#706c61;
+}
+
+.font{
+    font-family: 'Sen', sans-serif;  
+}
+
+.footer-navbar-heading{
+    font-family: 'Sen', sans-serif;
+    color:#ffffff;
+    
+}
+
+
+
+.footer{
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    left:0px;
+}
+
+.order-summery{
+    /* border:2px solid #706c61; */
+    border-radius: 5%;
+    padding: 2%;
+
+}
